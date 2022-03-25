@@ -1050,9 +1050,7 @@ header nav .form i:hover{
 	background-color: #111111;
 	color: white;
 }
-.footer .container {
-	position: relative;
-}
+
 
 .footer p:not(.copyright) {
 	text-transform: uppercase;
