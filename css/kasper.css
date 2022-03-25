@@ -1053,9 +1053,7 @@ header nav .form i:hover{
 .footer .container {
 	position: relative;
 }
-.footer img {
-	margin-bottom: 20px;
-}
+
 .footer p:not(.copyright) {
 	text-transform: uppercase;
 	padding: 20px;
@@ -1064,16 +1062,27 @@ header nav .form i:hover{
 	width: fit-content;
 	margin: 20px auto;
 }
-.footer .social-icons i {			 		 
-	padding: 10px 15px;
+	 
+.footer .social-icons  {			 		 						
+	text-align: center;
+	
+}			
+	
+.footer .social-icons i	{
+	padding: 10px 15px;		
+}			
 	
 	
-}
+
 .footer .copyright {
 	margin-top: 60px ;
+	text-align: center;
 }
+	
 .footer .copyright span {
 	font-weight: bold;
 	color: rgb(15 126 166 / 40%);
 }
+
+
 /* end footer */
