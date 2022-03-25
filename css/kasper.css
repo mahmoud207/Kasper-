@@ -857,6 +857,7 @@ header nav .form i:hover{
 				padding: 20px 20px 20px 60px;
 				caret-color: rgb(25 126 166 / 40%); 
 				width: calc(100% - 130px);
+				color:white ;
 }		
 .sub form input[type="submit"] {
 				width: 130px;
